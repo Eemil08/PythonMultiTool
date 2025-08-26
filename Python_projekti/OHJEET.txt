@@ -1,0 +1,5 @@
+Kun käytät salasanamanageria, niin pääset vanhoihin tallennettuihin salasanoihin vain syöttämällä silloin asettelemallasi pääsalasanalla!
+
+Kun käytät metadata tarkastelua, niin laita haluamasi tarkasteltavasi kuva erilliseen kansioon. Tarkastelun raportti löytyy samasta kansiosta.
+
+Kun käytät kuvienjärjestäjää, niin ota huomioon, että ohjelma järjestää kuvat päivämäärän mukaan vanhimmasta uusimpaan tai koon mukaan suurimmasta pienempään.
