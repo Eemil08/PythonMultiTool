@@ -7,7 +7,7 @@ def tyhjenna_naytto():
 def main():
     while True:
         tyhjenna_naytto()
-        print("=== Monitoimityökalu ===")
+        print("    Monitoimityökalu    ")
         print("1. Duplikaatit")
         print("2. Kuvajärjestäjä")
         print("3. Metadatan tarkastus/poisto")
@@ -39,3 +39,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
